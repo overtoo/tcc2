@@ -29,7 +29,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>Taipei Maps</h1>
+        <h1 className={styles.title}>Taipei Code Camp</h1>
 
         {/* <p className={styles.description}>description</p> */}
         <div className={styles.grid}>
